@@ -23,10 +23,17 @@ Here is a picture of the said Owl ![owl](https://target.scene7.com/is/image/Targ
 If anyone wanted to purchase the owl for themselves they can find it at 🦉 [target](https://www.target.com/p/melissa-38-doug-giant-owl-lifelike-stuffed-animal-17-inches-tall/-/A-50381031) 🦉
 
  -[x] Two paragraphs
+ 
  -[x] Two levels of headers
- -[x] Some emphasized or bold text
- -[x] A list
- -[x] One link
- -[x] One Image
- -[x] Emojis
- -[x] Mention of *interviewee* and instructor.
+
+-[x] Some emphasized or bold text
+
+-[x] A list
+
+-[x] One link
+
+-[x] One Image
+
+-[x] Emojis
+
+-[x] Mention of *interviewee* and instructor.
