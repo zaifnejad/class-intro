@@ -18,7 +18,9 @@ There was a list of questions for the partners to ask each other.
   12. How did they get one of their scars?
 To all of these questions the answer is still that I was *interviewing* a **Stuffed Owl**.
 Here is a picture of the said ![owl](https://target.scene7.com/is/image/Target/GUEST_66f5b1f7-bbf8-4a54-89fa-f5d977310747?wid=488&hei=488&fmt=pjpeg)
+
 If anyone wanted to purchase the owl for themselves they can find it at 🦉 [target](https://www.target.com/p/melissa-38-doug-giant-owl-lifelike-stuffed-animal-17-inches-tall/-/A-50381031) 🦉
+
  -[x] Two paragraphs
  -[x] Two levels of headers
  -[x] Some emphasized or bold text
