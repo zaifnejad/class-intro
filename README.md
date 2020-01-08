@@ -1,7 +1,7 @@
 # Assignment For Class
 ## My Partner Was A Stuffed Owl
 
-@Joeparislbcc Has assigned an assignment for the entire class where we *interview* class members.
+@joeparislbcc Has assigned an assignment for the entire class where we *interview* class members.
 My partner was ``@``AStuffedOwl because there was an uneven number of students in the class.
 There was a list of questions for the partners to ask each other.
   1. What are some hobbies?
